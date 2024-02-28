@@ -34,7 +34,7 @@ This defines the directory for the client to store and receive the files from th
 This gracefully terminates the server.
 
 ## Demo
-Check ./demo.mp4.
+https://github.com/twilkhoo/FileTransferNetwork/assets/30396273/072f37a1-4a3b-4947-8b2e-90970fd1b2c1
 
 ## Next Steps
 - Multithread the server to handle requests concurrently.
